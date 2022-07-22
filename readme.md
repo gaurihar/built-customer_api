@@ -3,7 +3,7 @@
 
 ## Directory Structure
 ---
-![Image](directory.png)
+![Image](directory_structure.png)
 
 
 ## Package driver installation
